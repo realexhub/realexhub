@@ -9,3 +9,11 @@ Isolation is the kernel's: namespaces, cgroups v2, seccomp.
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/getkern/kern/main/install.sh | sh
+Every number above is measured on hardware I can name, and the method is in
+BENCHMARKS.md. What kern
+does not do yet is written down too, in
+OPEN_ITEMS.md.
+
+Site: getkern.dev
+Mail: hello@getkern.dev
+X: @realexweb
