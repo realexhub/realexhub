@@ -7,6 +7,8 @@ and resource runtime in one 1.59 MB static binary. A bare box starts in ~2.3 ms,
 from an OCI image in ~3.6 ms, against ~293 ms for `docker run` on the same machine.
 Isolation is the kernel's: namespaces, cgroups v2, seccomp.
 
+```sh
+curl -fsSL https://raw.githubusercontent.com/getkern/kern/main/install.sh | sh
 ```
 
 Every number above is measured on hardware I can name, and the method is in
