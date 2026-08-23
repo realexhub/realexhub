@@ -1,4 +1,4 @@
-Systems engineer. Linux isolation, sandboxing, and low-level runtimes.
+Systems engineer. Operating systems, runtimes, isolation.
 
 ### kern
 
