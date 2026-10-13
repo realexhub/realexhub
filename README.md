@@ -1,4 +1,4 @@
-Software & Systems engineer. Operating systems, runtimes, isolation. I build kern.
+Hard problems, fast systems. Operating systems, runtimes, isolation. I build kern.
 
 ## kern
 
